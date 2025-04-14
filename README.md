@@ -1,8 +1,6 @@
 # High-Dimensional-Statistics
 
 ---
-
-# High-Dimensional Statistics  
 ## Project: Dependence Structure and Linear Modeling
 
 ### Introduction
